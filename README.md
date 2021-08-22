@@ -1,2 +1,2 @@
 # Line-Segmentation_OpenCV
-Line Segmentation of IAM Forms using OpenCV.
+Line Segmentation and prediction of cropped image from IAM Forms using OpenCV.
